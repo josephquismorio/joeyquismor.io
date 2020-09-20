@@ -1,0 +1,14 @@
+body {
+    background-image: url("rainy gif.gif");
+    background-size:100%;
+}
+* {
+    font-family: Helvetica;
+    text-align: center;
+    letter-spacing: -.5px;
+}
+.bottom {
+    position: absolute;
+    text-align: center;
+    bottom: 0px;
+}
